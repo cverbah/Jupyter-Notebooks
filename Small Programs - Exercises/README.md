@@ -1,1 +1,1 @@
-Some small programs exercises i did from: [www.practicepython.org](https://www.practicepython.org/)
+Some small programs exercises i did from: [www.practicepython.org](https://www.practicepython.org/){target="_blank"}
