@@ -1,4 +1,9 @@
 # Jupyter-Notebooks
-Jupyter notebooks projects
+Some Jupyter notebooks projects <br />
+Currently: <br />
+- Counting Cells
+- Countries
+- Sentiment Analysis
+- Small Programs
 
-....must be done!
+
