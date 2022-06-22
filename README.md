@@ -3,7 +3,7 @@ Some Jupyter notebooks projects <br />
 Currently: <br />
 - Abalone Dataset : ML Regression 
 - Counting Cells : Computer Vision
-- Countries : DataSet Manipulation
+- Countries : Dataset Manipulation
 - Sentiment Analysis : ML Classification 
 - Small Programs : Python programs
 
