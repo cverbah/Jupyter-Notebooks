@@ -1,1 +1,2 @@
-## ETH Price forecast using LSTM
+## ABOUT 
+- ETH Price forecast using LSTM
